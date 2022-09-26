@@ -70,6 +70,7 @@ body {
   border-radius: 6px;
   margin-top: 3px;
 }
+/*pseudoelement (::)*/
 ::placeholder {
   color: rgb(139, 139, 179)
 }
@@ -81,6 +82,10 @@ body {
   margin-bottom: 6px;
 }
 h3 {
+  text-align: center;
+  background-color: rgb(0, 110, 255)
+}
+h2 {
   text-align: center;
   background-color: rgb(0, 110, 255)
 }

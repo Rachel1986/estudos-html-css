@@ -1,0 +1,49 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+header {
+  background-color: #0f637a;
+}
+
+#main-form {
+  padding: 20px;
+}
+
+.group-form {
+  padding-top: 10px;
+}
+
+#tabelas {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  width: 900px;
+}
+
+table {
+width: 350px;
+}
+
+table tr {
+display: flex;
+justify-content: space-between;
+}
+
+table tr td {
+  padding: 15px 0;
+}
+
+table tr td td{
+  color: rgb(25, 199, 83)
+}
+#text-table1, #text-table2{
+  text-align: center;
+  width: 100%;
+  font-size: 22px;
+  font-weight: bold;
+}
